@@ -58,8 +58,7 @@ header > ul > li{
 .container-img{
   width: 45%;
   border: 0 solid black;
-  margin-left: 20px;
-
+  padding-top: 20px;
 }
 .sub-container-button-one{
   width: 30%;
